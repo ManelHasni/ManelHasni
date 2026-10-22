@@ -1,3 +1,6 @@
+<!--Banner-->
+![ManelHasni Banner Image](./banner.png)
+
 # 💫 About Me:
 🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
