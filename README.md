@@ -1,5 +1,5 @@
 <!--Banner-->
-![ManelHasni Banner Image](./banner.png)
+![ManelHasni Banner Image](./banner.jpg)
 
 # 💫 About Me:
 🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
