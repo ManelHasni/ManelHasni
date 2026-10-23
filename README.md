@@ -4,6 +4,7 @@
 # 💫 About Me:
 🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+💻 Visit my [Portfolio](https://manelhasni.github.io/) for more details about me.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hasni-manel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasnimanel13@gmail.com) 
